@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="consumer_java_api_regression_test_suite1"
+	parallel="none">
+	<test name="consumer_api_suite_Login">
+		<classes>
+		
+			<class name="com.mb.newTest.newTest" /> 
+			
+		
+			
+		</classes>
+	
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
